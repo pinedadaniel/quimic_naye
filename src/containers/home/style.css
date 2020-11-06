@@ -1,0 +1,8 @@
+.container_home {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#30E230 30%, #0A386A );
+}
+input {
+    margin: 25px;
+}

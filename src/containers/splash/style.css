@@ -1,0 +1,34 @@
+.container_splash {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#30E230 30%, #0A386A );
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.logo {
+    margin: -25px 10% 0;
+    width: 80%;
+    border-radius: 40px;
+    box-shadow: 0 2px 6px black;
+
+}
+.dexter {
+    width: 50%;
+    margin: -25px 25%;
+}
+.btn_start {
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 24px;
+    font-family: cursive;
+    width: fit-content;
+    align-self: flex-end;
+    margin-right: 30px;
+    border: none;
+    font-weight: 800;
+    color: black;
+    outline: none;
+    background-image: linear-gradient(#32AE55 40%, white );
+    text-decoration: none;
+}
